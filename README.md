@@ -2,8 +2,8 @@
 
 # I installed
 
-Mongoose
-Postman
+- Mongoose
+- Postman
 
 # I run from the terminal
 
