@@ -1,11 +1,11 @@
 # CoolWall
 
-# I installed
+## I installed
 
 - Mongoose
 - Postman
 
-# I run from the terminal
+## I run from the terminal
 
 ```
 npm i express express-validator bcryptjs config gravatar
